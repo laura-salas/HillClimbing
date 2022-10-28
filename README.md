@@ -15,7 +15,7 @@ Note that, just like with the real hill climbing algorithm, every time the algo 
 `NUMBER_OF_POINTS`, how many plot points should be drawn on the graph
 `epsilon`, the _neighbourhood_ size, such that for a pivot _i_, and neighbourhood of size _n_, you'd have the points:
 ```
-[i-n, i-n+1, i-n+2, ... i, i+1, i+2, ..., i+n]
+[i-n, i-n+1, i-n+2, ..., i, i+1, i+2, ..., i+n]
 ```
 `verbose`, which allows additional outputs to the console. 
 
