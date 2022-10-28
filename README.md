@@ -6,7 +6,7 @@ Take the formula:
 ```
 cos(0.25(x^2)) - cos(x)
 ```
-Will produce the following pyplot output when the script is run:
+Will produce the following pyplot output when the script is run: <br/>
 ![graph-gif](https://github.com/laura-salas/HillClimbing/blob/bc7c9d6728e6769ae87b9788aec7bfe5c7c6c275/313219776_8383927455011663_5154466482966879082_n_AdobeExpress.gif)
 
 ## Parameters: 
